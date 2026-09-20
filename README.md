@@ -11,8 +11,4 @@ KiCAD Board Image
 
 <img width="701" height="253" alt="image" src="https://github.com/user-attachments/assets/fabb72a6-1f54-41f2-87fe-7e9aad3b6499" />
 
-Assembled Board Image
-
-<img width="2835" height="1133" alt="image" src="https://github.com/user-attachments/assets/969ba094-6b01-4afb-8a61-1e86ebf1f242" />
-
 Use at your own risk. No warranties or support are provided for this product, this is a hobby project created for my own systems and may not be compatible with all boards/systems
