@@ -5,6 +5,6 @@ JAMMA In-Line Adapter with Voltmeter (5V and 12V switchable), Service/Coin/Test 
 
 Outputs for +5 and +12 have now been added to the board. These use 2 pin JST VH connectors
 
-Gerbers now available under Releases section. Full KiCAD project files including schematics and PCB design also available
+Gerbers now available under Releases section. Full KiCAD project files including schematics and PCB design also available in JILT-Outputs KiCAD folder
 
 Use at your own risk. No warranties or support are provided for this product, this is a hobby project created for my own systems and may not be compatible with all boards/systems
